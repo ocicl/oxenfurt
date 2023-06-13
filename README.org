@@ -1,0 +1,10 @@
+* oxenfurt
+
+A Common Lisp client library for the Oxford dictionary API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/oxenfurt.git   |
+| commit  | 33a3dd1  |
+| systems | oxenfurt |
+|---------+-------------------------------------------|
+
