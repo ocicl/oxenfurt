@@ -4,6 +4,6 @@ A Common Lisp client library for the Oxford dictionary API
 
 |---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/oxenfurt.git |
-| commit  | 0000000                                      |
+| commit  | 0925c65                                      |
 | systems | oxenfurt                                     |
 |---------+----------------------------------------------|
